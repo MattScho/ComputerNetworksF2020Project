@@ -7,3 +7,10 @@ To analyze the results that I have produced go to the results_analysis/analysis 
 To produce your own results create the empty directories a b c and d in the experiments directory and run the test_suite scripts.
 The code a b c and d mark different environment settings:
  
+ 
+ | code | User Arrival Interest Distribution | User Destination Interest Distribution |
+ |------|------------------------------------|----------------------------------------|
+ | a    | Uniform | Uniform |
+ | b | Gaussian | Uniform |
+ | c | Uniform | Gaussian |
+ | d | Gaussian | Gaussian |
